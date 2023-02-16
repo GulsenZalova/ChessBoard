@@ -1,0 +1,11 @@
+
+.read-the-docs {
+  color: #888;
+}
+#chessboard{
+  width: 800px;
+  height: 800px;
+  display: grid;
+  grid-template-columns: repeat( 8, 1fr);
+  background-color: aqua;
+}
